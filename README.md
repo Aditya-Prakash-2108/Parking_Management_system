@@ -1,7 +1,7 @@
 # Parking_Management_system
 This is a web application which digitalizes management of car parking
 
-Acknowledgement
+
 Managing Prakings is a big task and involves a lot of “people power”. We have made a website to manage 
 everything digitally. Our website scans every car and gives them a unique ID using Quick Response code 
 (QR). The website lists every car and calculates their ‘In time’ when the car arrives and ‘Out Time’ when
@@ -9,7 +9,7 @@ the car leaves the parking. Parking spaces will have IOT enabled devices which w
 number of cars entering the parking lot and the number of spaces left. Using this feature, we can replace 
 people with smart machines.
 
-General
+
 In modern times, time is what matters the most to people. Everything we do is directly or indirectly an effort 
 to spend less time on daily things and more on personal and professional growth. People wait in lines for 
 parking and face a lot of discomfort while dealing with the manual entry and exit section of the Parking. It’s 
@@ -18,7 +18,6 @@ the need of the hour to have a proper digitized parking management system for th
 Here, in this we explore the parking management system website’s basic features like scanning the car, adding 
 the counter for entry of the car and storing everything in database along with the real time.
 
-Problem Statement
 In today’s world everything is being digitized except for parking spaces. In addition, a lot of men's work is 
 required for this operation, which requires a lot of expenditure. Therefore, it is necessary to create a system 
 that shows clearly which parking space is available in any lane. Smart Parking is now the most well-liked 
@@ -32,7 +31,6 @@ increasingly high demand. The drivers' parking experience is being negatively im
 number of vehicles on the road. Drivers that use the conventional parking system suffer significant losses in 
 terms of money, productivity, and time spent looking for parking spaces in heavily populated locations.
 
-Features
 This project will help users park their cars using a nontraditional, more of a digital way. Admin can also see 
 the details and the number of cars parked which reduces margin of error. Some of the features of this web 
 application are:
